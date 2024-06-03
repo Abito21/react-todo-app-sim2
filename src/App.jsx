@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Todos from './components/Todo'
+import Todos from './components/Todos'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 // import './App.css'
